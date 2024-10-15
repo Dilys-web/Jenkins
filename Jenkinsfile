@@ -20,7 +20,7 @@ pipeline{
     failure{
       script {
         echo "Failure"
+        }
     }
-    
   }
 }
